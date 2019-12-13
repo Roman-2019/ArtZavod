@@ -1,0 +1,6 @@
+E:\C\Practice9\ArtZavod\bin\Debug\ArtZavod.exe.config
+E:\C\Practice9\ArtZavod\bin\Debug\ArtZavod.exe
+E:\C\Practice9\ArtZavod\bin\Debug\ArtZavod.pdb
+E:\C\Practice9\ArtZavod\obj\Debug\ArtZavod.csprojAssemblyReference.cache
+E:\C\Practice9\ArtZavod\obj\Debug\ArtZavod.exe
+E:\C\Practice9\ArtZavod\obj\Debug\ArtZavod.pdb
